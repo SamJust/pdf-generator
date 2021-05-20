@@ -19,6 +19,6 @@
   "homepage": "https://github.com/SamJust/pdf-generator#readme",
   "dependencies": {
     "handlebars": "4.5.3",
-    "html-pdf": "2.2.0"
+    "html-pdf": "3.0.1"
   }
 }
